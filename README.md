@@ -17,7 +17,7 @@
 Make sure you've already installed [Arduino IDE](https://www.arduino.cc/en/software)
 1) Download this repo and all libraries above
 2) Upload the sketch to your microcontroller
-### I recommend using my hardwired from this repo, but if you need to change the background for example, you need to have [Nextion Editor](https://nextion.tech/nextion-editor/). Skip to *5* step if you needn't
+#### I recommend using my hardwired from this repo, but if you need to change the background for example, you need to have [Nextion Editor](https://nextion.tech/nextion-editor/). Skip to *5* step if you needn't
 3) Open hardwiredPattern.HMI in Nextion Editor and change all you need
 <img src="/githubAssets/hardwiredEdit.jpg">
 4) Save your project as .tft
