@@ -1,2 +1,2 @@
-*.HMI linguist-language=C
-# *.tft linguist-language=C
+# *.HMI linguist-language=C
+*.tft linguist-language=C
