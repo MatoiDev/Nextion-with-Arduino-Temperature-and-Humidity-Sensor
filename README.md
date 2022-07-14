@@ -32,6 +32,6 @@ Make sure you've already installed [Arduino IDE](https://www.arduino.cc/en/softw
 <img src="/githubAssets/hardwiredLoad.jpg">
 11) Reconnect the device
 12) Profit
-<img src="/githubAssets/profit1.jpg">
-<img src="/githubAssets/profit2.jpg">
+<img src="/githubAssets/profit1.heic">
+<img src="/githubAssets/profit2.heic">
 
