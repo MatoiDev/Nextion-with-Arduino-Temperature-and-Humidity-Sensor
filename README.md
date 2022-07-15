@@ -2,7 +2,7 @@
 ## Hardware you need:
 - [Arduino Uno](https://store.arduino.cc/collections/core-family/products/arduino-uno-rev3)
 - [Nextion NX3224T024](https://nextion.tech/datasheets/nx3224t024/)
-- SHT1x (I used [this](https://amperka.ru/product/temperature-humidity-sensor-sht1x?ysclid=l5kwwvondw871733156))
+- SHT1x (I've used [this](https://amperka.ru/product/temperature-humidity-sensor-sht1x?ysclid=l5kwwvondw871733156))
 - Micro SD (I used 1 GB and it is more than enough)
 - Any Card reader
 
