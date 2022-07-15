@@ -44,7 +44,7 @@ Make sure you've already installed [Arduino IDE](https://www.arduino.cc/en/softw
 
 <img src="/githubAssets/firmwareLoad.jpg">
 
-11) Reconnect the device
+11) Eject SD card and reconnect the device
 
 12) Profit
 
