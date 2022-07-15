@@ -34,7 +34,7 @@ Make sure you've already installed [Arduino IDE](https://www.arduino.cc/en/softw
 
 7) Eject SD card
 
-8) Assemble the device according to the scheme
+8) Assemble the device according to this scheme
 
 <img src="/githubAssets/scheme.jpg">
 
