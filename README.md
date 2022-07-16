@@ -24,7 +24,7 @@ Make sure you've already installed [Arduino IDE](https://www.arduino.cc/en/softw
 
 <img src="/githubAssets/firmwareEdit.jpg">
 
-4) Save your project as .tft
+4) Save your project as *.tft*
 
 5) Open the SD card and make sure that it is empty
 
@@ -40,7 +40,7 @@ Make sure you've already installed [Arduino IDE](https://www.arduino.cc/en/softw
 
 9) Insert the SD card into the monitor tray and connect the device to a power source
 
-10) Wait ~10 seconds to this screen
+10) Wait _~10 seconds_ to this screen
 
 <img src="/githubAssets/firmwareLoad.jpg">
 
