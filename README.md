@@ -20,7 +20,7 @@ Make sure you've already installed [Arduino IDE](https://www.arduino.cc/en/softw
 
 #### I recommend using my firmware from this repo, but if you need to change the background for example, you need to have [Nextion Editor](https://nextion.tech/nextion-editor/). Skip to *5* step if you needn't
 
-3) Open firmwarePattern.HMI in Nextion Editor and change all you need
+3) Open firmwarePattern.HMI in _Nextion Editor_ and change all you need
 
 <img src="/githubAssets/firmwareEdit.jpg">
 
